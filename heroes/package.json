@@ -1,0 +1,22 @@
+{
+  "name": "heroes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node heroes.js"
+  },
+  "xo": {
+    "space": 2,
+    "rules": {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    }
+  },
+  "dependencies": {
+
+  }
+}

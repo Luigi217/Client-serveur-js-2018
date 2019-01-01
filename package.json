@@ -1,0 +1,19 @@
+{
+  "name": "v3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Luigi217/Client-serveur-js-2018",
+  "author": "Julien Neveux",
+  "license": "MIT",
+  "xo": {
+    "space": 2,
+    "rules": {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    }
+  }
+
+}

@@ -1,0 +1,26 @@
+{
+  "name": "villains",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sls offline start"
+  },
+  "xo": {
+    "space": 2,
+    "rules": {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    }
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.31.3"
+  },
+  "dependencies": {
+    "mongoose": "^5.4.1",
+    "serverless": "^1.35.1"
+  }
+}
